@@ -21,10 +21,10 @@
                 <div class="success-text">Success!</div>
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
 <<<<<<< HEAD
-                <div class="description line-2"> Harry's HTML app is up and running on Azure</div>
+                <div class="description line-2"> Harry and Kane's HTML app is up and running on Azure</div>
 =======
-                <div class="description line-2"> Kane's HTML app is up and running on Azure</div>
->>>>>>> kane
+                <div class="description line-2"> Kane's latest HTML app is up and running on Azure</div>
+>>>>>>> github/kane
                 <div class="next-steps-container">
                     <div class="next-steps-header">Next up</div>
                     <div class="next-steps-body">
